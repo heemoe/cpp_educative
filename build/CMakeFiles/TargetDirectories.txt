@@ -1,0 +1,3 @@
+/Users/trz/Code/educative/c++/build/CMakeFiles/rebuild_cache.dir
+/Users/trz/Code/educative/c++/build/CMakeFiles/edit_cache.dir
+/Users/trz/Code/educative/c++/build/CMakeFiles/c__.dir

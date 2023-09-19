@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/trz/Code/educative/c++/build",
+  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -std=gnu++2a -o CMakeFiles/c__.dir/main.cpp.o -c /Users/trz/Code/educative/c++/main.cpp",
+  "file": "/Users/trz/Code/educative/c++/main.cpp"
+}
+]

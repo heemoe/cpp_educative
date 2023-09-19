@@ -1,0 +1,4 @@
+/Users/trz/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/trz/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/trz/Code/educative/c++ -B /Users/trz/Code/educative/c++/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/trz/Code/educative/c++/cmake-build-debug
